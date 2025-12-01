@@ -1,2 +1,2 @@
-# Synthetic-Brain-Roadmap
-Contains information about synthetic brain roadmap
+# Synthetic Brain Research Roadmap  
+Long-term plan of NeuroVortexArc Research.
